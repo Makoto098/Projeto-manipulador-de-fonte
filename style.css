@@ -41,3 +41,8 @@ body {
     margin-bottom: 0; /* Remover a margem inferior padrão do parágrafo */
     font-size: 14px; 
 }
+
+canvas{
+    border: 20px solid white;
+    border-radius: 20px;
+}
