@@ -6,15 +6,14 @@ body {
     padding-bottom: 60px;
 }
 .heading{
-    font-size: 29px;
-    margin: 50px;
+    font-size: 19px;
+    margin: 25px;
     border: 2px solid #ffd500;
-    padding: 20px;
     margin: 20px auto;
-    width: 80%;
-    max-width: 800px;
-    background-color: #ff0000;
-    box-shadow: #ff0000;
+    width: 100%;
+    max-width: 100%;
+    background-color: #ffd500;
+    box-shadow: #0088ff;
 }
 .note{
     font-size: 15px;
@@ -27,7 +26,7 @@ body {
     margin: 20px auto;
     padding: 10px 20px;
     background-color: #007bff;
-    color: #fff;
+    color: #000000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
