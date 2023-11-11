@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-image: url('projeto123ima.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+}
+.heading{
+    font-size: 29px;
+    margin: 50px;
+    border: 2px solid #ffd500;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
+    background-color: #ff0000;
+    box-shadow: #ff0000;
+}
+.note{
+    font-size: 15px;
+    color: rgb(12, 0, 0)
+}
+
+/* Estilo para o botão */
+.filter-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #343a40; /* Cor de fundo escura do Bootstrap */
+    color: #ffffff; /* Cor do texto branco para contrastar com o fundo escuro */
+    padding: 20px 0; /* Espaçamento interno superior e inferior */
+    margin-top: 20px; /* Espaçamento externo superior */
+    border-top: 1px solid #ffffff; /* Borda superior branca */
+    margin-bottom: 0; /* Remover a margem inferior padrão do parágrafo */
+    font-size: 14px; 
+}
